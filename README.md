@@ -1,7 +1,7 @@
 # E-Commerce Node.js Project
 
 ## Project Description
-This is a full-featured E-Commerce application built with Node.js, Express, and Temp Database. The project includes user product management, shopping cart functionality, order processing, and an admin panel for managing products and orders.
+This is a full-featured E-Commerce application built with Node.js, Express, and Temp Database. The project includes user product management, shopping cart functionality, order processing, and an admin panel for managing products and orders. All Data saved in Json file , no Database use here
 
 ## Features
 - Product listing and detailed views
@@ -41,7 +41,6 @@ npm start
 ## Technologies Used
 - Node.js
 - Express
-- JWT for authentication
 - EJS for templating
 
 ## Contributing
