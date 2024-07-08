@@ -15,56 +15,50 @@ This is a full-featured E-Commerce application built with Node.js, Express, and 
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/xisxus/ECommerce-Nodejs-Project.git
-
-Navigate to the project directory:
-
-sh
-Copy code
+https://github.com/xisxus/ECommerce-Nodejs-Project.git
+```
+### Navigate to the project directory:
+```sh
 cd ECommerce-Nodejs-Project
-Install dependencies:
-
-sh
-Copy code
+```
+### Install dependencies:
+```sh
 npm install
-Set up environment variables:
-
-Create a .env file in the root directory.
-Add the following variables:
-makefile
-Copy code
+````
+## Set up environment variables:
+### Create a .env file in the root directory.
+### Add the following variables:
+```sh
 PORT=3000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-Start the application:
-
-sh
-Copy code
+```
+### Start the application:
+```sh
 npm start
-Usage
-Navigate to http://localhost:3000 in your browser.
-Register a new user or log in with an existing account.
-Browse products, add them to your cart, and proceed to checkout.
-Admin users can access the admin panel at http://localhost:3000/admin to manage products and orders.
-Screenshots
-Include relevant screenshots of your application here.
+```
+## Usage
+- Navigate to http://localhost:3000 in your browser.
+- Register a new user or log in with an existing account.
+- Browse products, add them to your cart, and proceed to checkout.
+- Admin users can access the admin panel at http://localhost:3000/admin to manage products and orders.
+## Screenshots
 
-Technologies Used
-Node.js
-Express
-MongoDB
-Mongoose
-JWT for authentication
-EJS for templating
-Bootstrap for styling
-Contributing
+
+## Technologies Used
+- Node.js
+- Express
+- JWT for authentication
+- EJS for templating
+
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contact Information
+## Contact Information
 For any questions or suggestions, please contact:
 
-Name: [Your Name]
-Email: [your.email@example.com]
+- Name: Shefain
+- Email: Shefain3@gmail.com
