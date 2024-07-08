@@ -1,0 +1,148 @@
+
+.body {
+  text-align: left;
+    padding: 93px 27px;
+    margin-top: -10px;
+    background-image: url(/image/product/hero-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #FFFFFF;
+    width: 100%;
+}
+
+.svgimg {
+  display: block;
+  margin: 20px;
+  height: 70px;
+}
+
+.svgimg:hover .hoverable {
+  fill: red;
+}
+
+
+
+.body span {
+  font-size: 24px;
+}
+
+.body h1 {
+  font-size: 36px;
+  margin-top: 0px;
+
+}
+
+.btn-group {
+  margin-top: 20px;
+}
+
+.btn-group button {
+  background-color: #FF0000;
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-group button a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.btn-group button:hover {
+  background-color: #CC0000;
+}
+
+
+
+#category-section {
+  text-align: center;
+  
+}
+
+#category-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#category-section h2 span {
+  color: #FF0000;
+}
+
+.card-products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card-products div {
+  width: 250px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-products div img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.card-products div:hover img {
+  transform: scale(1.1);
+}
+
+.card-products div a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-products div div {
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+
+.card-products div div h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.container1 {
+  background-color: #0438eb29;
+  height: 80vh;
+  width: 100%;
+  margin-top: 96px;
+
+}
+
+.pp {
+  margin: 10px;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 170px;
+
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 1px;
+}
+
+.footer footer {
+  font-size: 14px;
+}
+
+.cartTable{
+  width: 150%;
+  margin: 10px;
+}
