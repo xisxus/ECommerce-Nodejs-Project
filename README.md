@@ -1,20 +1,22 @@
-E-Commerce Node.js Project
-Project Description
+# E-Commerce Node.js Project
+
+## Project Description
 This is a full-featured E-Commerce application built with Node.js, Express, and MongoDB. The project includes user authentication, product management, shopping cart functionality, order processing, and an admin panel for managing products and orders.
 
-Features
-User registration and authentication
-Product listing and detailed views
-Shopping cart and checkout process
-Order management and tracking
-Admin panel for managing products and orders
-Responsive design
-Installation
-Clone the repository:
+## Features
+- User registration and authentication
+- Product listing and detailed views
+- Shopping cart and checkout process
+- Order management and tracking
+- Admin panel for managing products and orders
+- Responsive design
 
-sh
-Copy code
+## Installation
+
+### Clone the repository:
+```sh
 git clone https://github.com/xisxus/ECommerce-Nodejs-Project.git
+
 Navigate to the project directory:
 
 sh
