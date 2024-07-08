@@ -1,10 +1,9 @@
 # E-Commerce Node.js Project
 
 ## Project Description
-This is a full-featured E-Commerce application built with Node.js, Express, and MongoDB. The project includes user authentication, product management, shopping cart functionality, order processing, and an admin panel for managing products and orders.
+This is a full-featured E-Commerce application built with Node.js, Express, and Temp Database. The project includes user product management, shopping cart functionality, order processing, and an admin panel for managing products and orders.
 
 ## Features
-- User registration and authentication
 - Product listing and detailed views
 - Shopping cart and checkout process
 - Order management and tracking
@@ -26,13 +25,7 @@ cd ECommerce-Nodejs-Project
 npm install
 ````
 ## Set up environment variables:
-### Create a .env file in the root directory.
-### Add the following variables:
-```sh
-PORT=3000
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-```
+
 ### Start the application:
 ```sh
 npm start
@@ -61,4 +54,4 @@ This project is licensed under the MIT License.
 For any questions or suggestions, please contact:
 
 - Name: Shefain
-- Email: Shefain3@gmail.com
+- Email: shefain3@gmail.com
